@@ -4,3 +4,4 @@ Fahrenheit = float(((9/5) * celsius) + 32)
 
 print("Temprature in Fahrenheit is : ", Fahrenheit)
 
+#print(f"Temprature in Fahrenheit is : {Fahrenheit}")
